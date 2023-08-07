@@ -37,24 +37,26 @@ BlogSpot is a platform designed to empower you to express your thoughts, ideas, 
 
 ## Installation
 
-- Clone the repository or download the zip file
+- Clone the repository by opening your terminal and navigating to the directory where you want to clone the repository. Then, run the following command:
 ```bash
   git clone https://github.com/t-kadre/BlogSpot
 ```
 
-- Install all packages and project dependencies 
+- Navigate to the App Directory:
+```bash
+  cd BlogSpot
+```
+
+- Install the required dependencies using npm package manager:
 ```bash
   npm install
 ```
-
-- Start the server
+- Start the development server:
 ```bash
   npm start
 ```
-- Website is hosted on port 3000
-```bash
-  localhost:3000
-```
+- Access the website by visiting 'http://localhost:3000' 
+
 ## Images of Working App
 
 - Home page:
